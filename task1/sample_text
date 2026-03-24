@@ -13,3 +13,8 @@ Some fractional numbers: -123.5312, 4324.031, -41212323.00009
 584,3
 
 32.54.231
+
+Experiments showed result of: 1.3e10 eV with -234.334e1
+
+Following number is too long to be converted to Long: 10000000000000000000000000000000000000000000000000000000000000
+and won't appear in resulting list
